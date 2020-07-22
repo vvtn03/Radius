@@ -23,7 +23,10 @@ r=requests.get("http://www.google.cpm") for an example
 But Here I have Modified and Im accessing the Local File in python BeautifulSoup
 
 HERE I HAVE ONLY GIVEN THE JSON FOR NAME,ADDRESS AND PHONE NUMBER AND ALSO SPECIFIC CASE,
-Generic Case We can Use REGEX 
+Generic Case We can Use REGEX FOR EXAMPLE @Email.com can be used in regex and can be taken 
+Then we get all email ids and list of indices can be stored 
+For name and phone number also it can be done 
+
 
 I have Attached Parser.py,Output.json Along with the Given HTML File
 
