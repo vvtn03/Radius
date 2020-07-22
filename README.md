@@ -22,6 +22,8 @@ and Requests Basically takes the external website like
 r=requests.get("http://www.google.cpm") for an example
 But Here I have Modified and Im accessing the Local File in python BeautifulSoup
 
+HERE I HAVE ONLY GIVEN THE JSON FOR NAME,ADDRESS AND PHONE NUMBER AND ALSO SPECIFIC CASE,
+Generic Case We can Use REGEX 
 
 I have Attached Parser.py,Output.json Along with the Given HTML File
 
